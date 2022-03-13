@@ -2,7 +2,7 @@
 
 ### I'm Christopher, a passionate Mobile Engineer.
 
-- 🔭  Software Engineer at [Freeelance]
+- 🔭 Software Engineer at [Freeelance]
 - 👨 &nbsp; I'm just a young guy learning software development.
 - - 🌱 &nbsp; I’m currently exploring Web 3.0.
 - 👯  I’m looking to collaborate on open-source projects.

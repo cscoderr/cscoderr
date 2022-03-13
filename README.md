@@ -4,7 +4,7 @@
 
 - 🔭 Software Engineer at [Freeelance]
 - 👨 &nbsp; I'm just a young guy learning software development.
-- - 🌱 &nbsp; I’m currently exploring Web 3.0.
+- 🌱 &nbsp; I’m currently exploring Web 3.0.
 - 👯  I’m looking to collaborate on open-source projects.
 - 📫  How to reach me: [Twitter](https://twitter.com/cscoder_) or [Linkedln](https://www.linkedin.com/in/cscoder)
 - ⚡ Pronouns: He/His

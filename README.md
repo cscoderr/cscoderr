@@ -15,4 +15,4 @@ I'm a software engineer
 
 ### Github Stats
 
-[![Cscoder Github Stats](https://github-readme-stats.vercel.app/api?username=tommydprogrammer&count_private=true&theme=default&show_icons=true)](https://github.com/tommydprogrammer)
+[![Cscoder Github Stats](https://github-readme-stats.vercel.app/api?username=tommydprogrammer&theme=default&show_icons=true)](https://github.com/tommydprogrammer)

@@ -12,7 +12,3 @@ I'm a software engineer
 [![Linkedin: cscoder](https://img.shields.io/badge/-cscoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cscoder/)](https://www.linkedin.com/in/cscoder/)
 [![Twitter: cscoder_](https://img.shields.io/twitter/follow/cscoder_?style=social)](https://twitter.com/cscoder_)
 [![GitHub tommydprogrammer](https://img.shields.io/github/followers/tommydprogrammer?label=follow&style=social)](https://github.com/tommydprogrammer)
-
-### Github Stats
-
-[![Cscoder Github Stats](https://github-readme-stats.vercel.app/api?username=tommydprogrammer&theme=default&show_icons=true)](https://github.com/tommydprogrammer)

@@ -2,7 +2,7 @@
 
 I'm a software engineer
 
-- 🌱 &nbsp; I’m currently exploring Web 3.0.
+- 🌱 I’m currently learning more about Data Structures and Algorithms.
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 📫  How to reach me: [Twitter](https://twitter.com/cscoder_) or [Linkedln](https://www.linkedin.com/in/cscoder)

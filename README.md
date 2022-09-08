@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a software engineer
+I'm a software engineer building cool stuffs with flutter💙. 
+Thank you for you visit
 
-- 🌱 I’m currently learning more about Data Structures and Algorithms.
+- 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 💬 Ask me about anything Flutter 💙
 - 📫  How to reach me: [Twitter](https://twitter.com/cscoder_) or [Linkedln](https://www.linkedin.com/in/cscoder)
-- 😄 Pronouns: he/him/his
  
 <hr>
 

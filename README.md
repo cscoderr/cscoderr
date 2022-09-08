@@ -7,8 +7,7 @@ I'm a software engineer
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 📫  How to reach me: [Twitter](https://twitter.com/cscoder_) or [Linkedln](https://www.linkedin.com/in/cscoder)
 - 😄 Pronouns: he/him/his
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&theme=dracula)  
+ 
 <hr>
 
 <p align="center">

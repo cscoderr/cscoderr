@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-I'm a software engineer building cool stuffs with flutter💙. 
-Thank you for you visit
+I'm a software engineer building web3 and cool projects with Flutter💙
+
+<hr>
 
 - 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything Flutter 💙
-- 📫  How to reach me: [Twitter](https://twitter.com/cscoder_) or [Linkedln](https://www.linkedin.com/in/cscoder)
- 
-<hr>
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 😄 Pronouns: he/him/his
+
+### Open Source Projects
+
+[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
+[![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=cscoder&repo=myshopify)](https://github.com/cscoderr/myshopify)
+[![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=cscoder&repo=weather_app)](https://github.com/cscoderr/weather_app)
+
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">

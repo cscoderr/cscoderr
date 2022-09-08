@@ -12,8 +12,8 @@ I'm a software engineer building web3 and cool projects with Flutter💙
 ### Open Source Projects
 
 [![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
-[![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=cscoder&repo=myshopify)](https://github.com/cscoderr/myshopify)
-[![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=cscoder&repo=weather_app)](https://github.com/cscoderr/weather_app)
+[![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
+[![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 
 
 <p align="center">

@@ -20,9 +20,10 @@ I'm a software engineer building web3 and cool projects with Flutter💙
 
 ### Open Source Projects
 
-[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
-[![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
-[![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
+[![Cryot App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
+[![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
 
 
 #### Follow me

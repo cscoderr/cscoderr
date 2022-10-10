@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tomiwa Idowu</h1>
 
-<h3 align="center">I'm a software engineer building web3 and cool projects with Flutter💙</h3>
+<h4 align="center">I'm a software engineer building web3 and cool projects with Flutter💙</h4>
 
 <p align="center"> 
   <a href="https://twitter.com/cscoder_" target="blank"><img src="https://img.shields.io/twitter/follow/cscoder_?logo=twitter&style=for-the-badge" alt="cscoderr" /></a> 

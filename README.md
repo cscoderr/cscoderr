@@ -15,7 +15,7 @@
 <hr>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoderr" />
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&count_private=true&theme=darcula&hide_border=false&hide=issues,contribs">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 

@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Tomiwa Idowu</h1>
 
-I'm a software engineer building web3 and cool projects with Flutter💙
-<p align="center"> <a href="https://twitter.com/cscoder_" target="blank"><img src="https://img.shields.io/twitter/follow/cscoder_?logo=twitter&style=for-the-badge" alt="cscoderr" /></a> </p>
+<h3 align="center">I'm a software engineer building web3 and cool projects with Flutter💙</h3>
 
+<p align="center"> 
+  <a href="https://twitter.com/cscoder_" target="blank"><img src="https://img.shields.io/twitter/follow/cscoder_?logo=twitter&style=for-the-badge" alt="cscoderr" /></a> 
+</p>
 <hr>
 
 - 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
@@ -25,9 +27,3 @@ I'm a software engineer building web3 and cool projects with Flutter💙
 [![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
-
-
-#### Follow me
-[![Linkedin: cscoder](https://img.shields.io/badge/-cscoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cscoder/)](https://www.linkedin.com/in/cscoder/)
-[![Twitter: cscoder_](https://img.shields.io/twitter/follow/cscoder_?style=social)](https://twitter.com/cscoder_)
-[![GitHub tommydprogrammer](https://img.shields.io/github/followers/cscoderr?label=follow&style=social)](https://github.com/cscoderr)

@@ -14,9 +14,10 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoderr" /></p>
-
-<p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=darcula&hide_border=true&background=FFFFFF00"></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoderr" />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
 <hr>
 

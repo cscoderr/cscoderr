@@ -27,3 +27,9 @@
 [![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cscoder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/cscoder_/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cscoder" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/cscoder"><img align="center" src="https://img.icons8.com/color/50/linkedin-logo.png" alt="linkedin profile" height="50" width="50"/></a>
+</p>

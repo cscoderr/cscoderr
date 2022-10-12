@@ -13,6 +13,20 @@
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
 
+- 🔭 I’m currently working on **Open Source**
+
+- 🌱 I’m currently learning **Swift**
+
+- 👯 I’m looking to collaborate on **Open source and Your flutter projects**
+
+- 💬 Ask me about **Flutter**
+
+- 📫 How to reach me **tomiwaidowuu@gmail.com**
+
+- ⚡ Fun fact **I don't sleep**
+
+- 😄 Pronouns: he/him/his
+
 <hr>
 
 <p align="center">
@@ -33,4 +47,5 @@
 <p align="left">
 <a href="https://twitter.com/cscoder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cscoder" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/cscoder"><img align="center" src="https://img.icons8.com/color/50/linkedin-logo.png" alt="linkedin profile" height="50" width="50"/></a>
+<a href="https://www.instagram.com/tomi.wah"><img align="center" src="https://img.icons8.com/color/50/instagram-logo.png" alt="linkedin profile" height="50" width="50"/></a>
 </p>

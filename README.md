@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <a href="https://twitter.com/cscoder_" target="blank"><img src="https://img.shields.io/twitter/follow/cscoder_?logo=twitter&style=for-the-badge" alt="cscoderr" /></a> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
 </p>
 <hr>
 

@@ -8,11 +8,6 @@
 </p>
 <hr>
 
-- 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
-- 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
-- 😄 Pronouns: he/him/his
-
 - 🔭 I’m currently working on **Open Source**
 
 - 🌱 I’m currently learning **Swift**

@@ -40,6 +40,6 @@
 <hr>
 
 <p>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=merko&hide_border=false&background=FFFFFF00">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&hide_border=false&background=FFFFFF00">
 </p>

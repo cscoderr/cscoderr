@@ -35,3 +35,11 @@
 [![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
+
+### Stats
+<hr>
+
+<p>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=merko&hide_border=false&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
+</p>

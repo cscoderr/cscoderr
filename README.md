@@ -40,7 +40,7 @@
 ### Github Stats
 <hr>
 <p>
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&theme=merko&show_icons=true&locale=en">
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&theme=dracula&show_icons=true&locale=en">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dracula&hide_border=false&background=FFFFFF00">
 </p>
 

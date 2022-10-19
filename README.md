@@ -29,6 +29,12 @@
 
 - 😄 Pronouns: he/him/his
 
+### Stats
+<p>
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&theme=merko&show_icons=true&locale=en">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&hide_border=false&background=FFFFFF00">
+</p>
+
 ### Open Source Projects
 
 [![Cryot App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
@@ -36,10 +42,3 @@
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
 
-### Stats
-<hr>
-
-<p>
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&hide_border=false&background=FFFFFF00">
-</p>

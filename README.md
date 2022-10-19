@@ -14,13 +14,12 @@
 </a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
-<hr>
 
-- 🔭 I’m currently working on **Projects & Open Sources**
+- 🔭 I’m currently working on **Flutter Projects & Open Sources**
 
 <!-- - 🌱 I’m currently learning **Swift** -->
 
-- 👯 Open for collaborations on **Flutter** and **Open source Projects**
+- 🧑‍💻 I’m looking to collaborate on open source projects
 
 - 💬 Ask me about **Flutter**
 
@@ -29,15 +28,6 @@
 - ⚡ Fun fact **I don't sleep**
 
 - 😄 Pronouns: he/him/his
-
-<hr>
-
-<p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=merko&hide_border=true&background=FFFFFF00">
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
-</p>
-
-<hr>
 
 ### Open Source Projects
 

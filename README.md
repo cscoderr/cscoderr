@@ -32,16 +32,16 @@
 ### Open Source Projects
 <hr>
 
-[![Cryot App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&theme=dracula&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
-[![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&theme=dracula&repo=myshopify)](https://github.com/cscoderr/myshopify)
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&theme=dracula&repo=weather_app)](https://github.com/cscoderr/weather_app)
-[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&theme=dracula&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
+[![Cryot App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
+[![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
+[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
 
 ### Github Stats
 <hr>
 <p>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dracula&hide_border=true&background=FFFFFF00">
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&theme=dracula&show_icons=true&locale=en">
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
 </p>
 
 

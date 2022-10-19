@@ -37,6 +37,7 @@
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
 
+### Stats
 <hr>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&theme=merko&show_icons=true&locale=en">

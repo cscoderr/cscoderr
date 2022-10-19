@@ -2,8 +2,17 @@
 
 <h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter💙. I am actively looking for opportunities to improve my growth.</h4>
 
-<p align="center"> 
-  <a href="https://twitter.com/cscoder_" target="blank"><img src="https://img.shields.io/twitter/follow/cscoder_?logo=twitter&style=for-the-badge" alt="cscoderr" /></a> 
+<p align='center'>
+<a href="https://twitter.com/cscoder_">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:tomiwaidowuu@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/cscoder/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 <hr>
 

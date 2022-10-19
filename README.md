@@ -39,9 +39,9 @@
 
 ### Github Stats
 <hr>
-<span>
+<p>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dracula&hide_border=true&background=FFFFFF00">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&theme=dracula&show_icons=true&locale=en">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dracula&hide_border=false&background=FFFFFF00">
-</span>
+</p>
 
 

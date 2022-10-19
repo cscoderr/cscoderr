@@ -1,18 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Tomiwa Idowu</h1>
+<h1 align="center">Hi there 👋, I'm Tomiwa</h1>
 
-<h4 align="center">I'm a software engineer building web3 and cool projects with Flutter💙</h4>
+<h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter💙. I am actively looking for opportunities to improve my growth.</h4>
 
 <p align="center"> 
   <a href="https://twitter.com/cscoder_" target="blank"><img src="https://img.shields.io/twitter/follow/cscoder_?logo=twitter&style=for-the-badge" alt="cscoderr" /></a> 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
 </p>
 <hr>
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working on **Projects & Open Sources**
 
-- 🌱 I’m currently learning **Swift**
+<!-- - 🌱 I’m currently learning **Swift** -->
 
-- 👯 I’m looking to collaborate on **Open source and Your flutter projects**
+- 👯 Open for collaborations on **app developement with flutter** and **Open source Projects**
 
 - 💬 Ask me about **Flutter**
 

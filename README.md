@@ -28,12 +28,12 @@
 - ⚡ Fun fact **I don't sleep**
 
 - 😄 Pronouns: he/him/his
-
-### Github Stats
-<p>
+<hr>
+<p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dracula&hide_border=true&background=FFFFFF00">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
 </p>
+<hr>
 
 ### Open Source Projects
 

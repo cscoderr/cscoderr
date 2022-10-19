@@ -11,7 +11,7 @@
 
 <!-- - 🌱 I’m currently learning **Swift** -->
 
-- 👯 Open for collaborations on **app developement with flutter** and **Open source Projects**
+- 👯 Open for collaborations on **Flutter** and **Open source Projects**
 
 - 💬 Ask me about **Flutter**
 

@@ -32,7 +32,7 @@
 ### Open Source Projects
 <hr>
 
-[![Cryot App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&theme=dracularepo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
+[![Cryot App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&theme=dracula&repo=crypto_wallet_app)](https://github.com/cscoderr/crypto_wallet_app)
 [![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)

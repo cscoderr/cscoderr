@@ -3,13 +3,13 @@
 <h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter💙. I am actively looking for opportunities to improve my growth.</h4>
 
 <p align='center'>
-<a href="https://twitter.com/cscoder_">
+<a href="https://twitter.com/cscoder_" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:tomiwaidowuu@gmail.com">
+<a href="mailto:tomiwaidowuu@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/cscoder/">
+<a href="https://www.linkedin.com/in/cscoder/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
@@ -45,10 +45,3 @@
 [![Myshopify](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=myshopify)](https://github.com/cscoderr/myshopify)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=weather_app)](https://github.com/cscoderr/weather_app)
 [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=cscoderr&repo=Pokedex)](https://github.com/cscoderr/Pokedex)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cscoder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cscoder" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/cscoder"><img align="center" src="https://img.icons8.com/color/50/linkedin-logo.png" alt="linkedin profile" height="50" width="50"/></a>
-<a href="https://www.instagram.com/tomi.wah"><img align="center" src="https://img.icons8.com/color/50/instagram-logo.png" alt="linkedin profile" height="50" width="50"/></a>
-</p>

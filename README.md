@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tomiwa</h1>
 
-<h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
+<h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4> <img src="https://gpvc.arturio.dev/cscoderr" /></p>
 
 <p align='center'>
 <a href="https://twitter.com/cscoder_" target="_blank">

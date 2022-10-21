@@ -30,8 +30,8 @@
 - 😄 Pronouns: he/him/his
 <hr>
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dracula&hide_border=true&background=FFFFFF00">
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=cscoderr" alt="cscoder">
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">
 </p>
 <hr>
 

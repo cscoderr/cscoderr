@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tomiwa</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Tomiwa</h1>
 <h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
 
 <p align='center'>

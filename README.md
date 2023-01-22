@@ -37,4 +37,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cscoderr&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
-[![Cscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&count_private=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

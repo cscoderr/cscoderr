@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tomiwa</h1> -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07BE4BC3&width=435&lines=I'm+a+software+engineer+who+is+passionate+about+building+Defi%2FWeb3+tooling+and+cool+projects+with+Flutter.+I+am+actively+looking+for+opportunities+to+improve+my+growth." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07BE4BC3&width=435&lines=Hi%2C+I'm+Tomiwa+Idowu" alt="Typing SVG" /></a>
   </p>
 
 <h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>

@@ -31,7 +31,6 @@
 
 - 😄 Pronouns: he/him/his
 <hr>
-### :fire: My Stats :
 <!-- <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">
 </p> -->

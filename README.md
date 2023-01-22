@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tomiwa</h1> -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Tomiwa" alt="Typing SVG" /></a>
-</p?
+</p>
 
 <h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/cscoderr-profile-views"/></a>
 </p>
 
 - 🔭 I’m currently working on **Flutter Projects & Open Sources**

@@ -32,13 +32,10 @@
 - 😄 Pronouns: he/him/his
 <hr>
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=cscoderr&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en](https://streak-stats.demolab.com?user=cscoderr&theme=dark&hide_border=true" alt="cscoder">
-</p>
-
 <!-- <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">
 </p> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tayormi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Tayormi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayormi&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 

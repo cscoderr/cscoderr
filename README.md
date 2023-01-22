@@ -29,6 +29,8 @@
 
 - 😄 Pronouns: he/him/his
 <hr>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cscoderr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">
 </p>

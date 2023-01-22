@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/in/cscoder/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/cscoderr-profile-views"/></a>
 </p>
 
 - 🔭 I’m currently working on **Flutter Projects & Open Sources**
@@ -36,6 +33,10 @@
 <hr>
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=cscoderr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en](https://streak-stats.demolab.com?user=cscoderr&theme=dark&hide_border=true" alt="cscoder">
+</p>
 
 <!-- <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">

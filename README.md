@@ -1,4 +1,5 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tomiwa</h1>
+<!-- <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tomiwa</h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Tomiwa)](https://git.io/typing-svg)
 
 <h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
 
@@ -29,6 +30,7 @@
 
 - 😄 Pronouns: he/him/his
 <hr>
+### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=cscoderr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- <p align="center">

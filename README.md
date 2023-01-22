@@ -35,6 +35,6 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">
 </p> -->
 
-[![Cscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=cscoderr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Cscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

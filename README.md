@@ -2,8 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07BE4BC3&width=435&lines=Hi%2C+I'm+Tomiwa+Idowu" alt="Typing SVG" /></a>
  
-
-<h4>I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
+<!-- <h4>I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4> -->
 
 <!-- <p align='center'> -->
 <a href="https://twitter.com/cscoder_" target="_blank">

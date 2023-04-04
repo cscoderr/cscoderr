@@ -34,3 +34,37 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cscoderr&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
 [![Cscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&count_private=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Animation and UI Challenges
+
+<table>
+	<tbody width="100%">
+	<tr>
+			<th>3D Solar System</th>	
+			<th>Weather App Animation</th>	
+			<th>Shopping App UI</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://twitter.com/CsCoder_/status/1642139458538553344?s=20" alt="Dash Shooter Game"></img>
+			</td>
+			<td>
+			<img src="https://twitter.com/CsCoder_/status/1628715918581792769?s=20" alt="Pattern Page Animation"></img>
+			</td>
+						<td>
+			<img src="https://twitter.com/CsCoder_/status/1631284145593696257?s=20" alt="Magnifier Effect Animation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1621867123201949696?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1619207792728092672?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1617229802217377793?s=20">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
+</table>

@@ -46,7 +46,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/phone_pattern.gif" alt="Dash Shooter Game"></img>
+				<img src="https://github.com/cscoderr/dash_shooter/blob/main/gif/video.gif" alt="Dash Shooter Game"></img>
 			</td>
 			<td>
 			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/phone_pattern.gif" alt="Pattern Page Animation"></img>

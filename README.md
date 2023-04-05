@@ -78,9 +78,9 @@
 			<td>
 			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/progress_bar.gif" alt="Progress Bar Animation"></img>
 			</td>
-						<td>
+<!-- 						<td>
 			<img src="https://github.com/cscoderr/chrismas_tree/blob/main/screenshot/1.png" width="50%" alt="Animated Card"></img>
-			</td>
+			</td> -->
 		</tr>
 		<tr>
 			<td>
@@ -89,9 +89,9 @@
 			<td>
 				🔗 <a href="https://twitter.com/CsCoder_/status/1617229802217377793?s=20">Tweet</a>
 			</td>
-			<td>
+<!-- 			<td>
 				🔗 <a href="https://twitter.com/CsCoder_/status/1608166988198674432?s=20">Tweet</a>
-			</td>
+			</td> -->
 		</tr>
 	</tbody>
 </table>

@@ -52,18 +52,18 @@
 			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/phone_pattern.gif" alt="Pattern Page Animation"></img>
 			</td>
 						<td>
-			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/animated_card.gif" alt="Magnifier Effect Animation"></img>
+			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/animated_card.gif" alt="Animated Card"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://twitter.com/CsCoder_/status/1621867123201949696?s=20">Tweet</a>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1642139458538553344?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1628715918581792769?s=20">Tweet</a>
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/CsCoder_/status/1619207792728092672?s=20">Tweet</a>
-			</td>
-			<td>
-				🔗 <a href="https://twitter.com/CsCoder_/status/1617229802217377793?s=20">Tweet</a>
 			</td>
 		</tr>
 	</tbody>

@@ -42,7 +42,7 @@
 	<tr>
 			<th>Dash Shooter Game</th>	
 			<th>Pattern Page Animation</th>	
-			<th>Magnifier Effect Animation</th>
+			<th>Animated Card</th>
 		</tr>
 		<tr>
 			<td>
@@ -64,6 +64,33 @@
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/CsCoder_/status/1619207792728092672?s=20">Tweet</a>
+			</td>
+		</tr>
+		<tr>
+			<th>Animated Lock</th>	
+			<th>Progress Bar Animation</th>	
+			<th>Chrismas Tree</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/animated_lock.gif" alt="Animated Lock"></img>
+			</td>
+			<td>
+			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/progress_bar.gif" alt="Progress Bar Animation"></img>
+			</td>
+						<td>
+			<img src="https://github.com/cscoderr/chrismas_tree/blob/main/screenshot/1.png" alt="Animated Card"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1616656253463273472?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1617229802217377793?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1608166988198674432?s=20">Tweet</a>
 			</td>
 		</tr>
 	</tbody>

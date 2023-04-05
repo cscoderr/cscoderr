@@ -79,7 +79,7 @@
 			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/progress_bar.gif" alt="Progress Bar Animation"></img>
 			</td>
 						<td>
-			<img src="https://github.com/cscoderr/chrismas_tree/blob/main/screenshot/1.png" alt="Animated Card"></img>
+			<img src="https://github.com/cscoderr/chrismas_tree/blob/main/screenshot/1.png" width="50%" alt="Animated Card"></img>
 			</td>
 		</tr>
 		<tr>

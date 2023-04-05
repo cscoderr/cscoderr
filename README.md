@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h4 align="center">I'm a software engineer who is passionate about building Defi/Web3 tooling and cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
+<h4 align="center">I'm a software engineer who is passionate about building cool projects with Flutter. I am actively looking for opportunities to improve my growth.</h4>
 
 <p align='center'>
 <a href="https://twitter.com/cscoder_" target="_blank">
@@ -69,7 +69,7 @@
 		<tr>
 			<th>Animated Lock</th>	
 			<th>Progress Bar Animation</th>	
-			<th>Chrismas Tree</th>
+			<th>Sketch Book</th>
 		</tr>
 		<tr>
 			<td>
@@ -78,9 +78,9 @@
 			<td>
 			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/progress_bar.gif" alt="Progress Bar Animation"></img>
 			</td>
-<!-- 						<td>
-			<img src="https://github.com/cscoderr/chrismas_tree/blob/main/screenshot/1.png" width="50%" alt="Animated Card"></img>
-			</td> -->
+						<td>
+<!-- 			<img src="https://github.com/cscoderr/chrismas_tree/blob/main/screenshot/1.png" width="50%" alt="Animated Card"></img> -->
+			</td>
 		</tr>
 		<tr>
 			<td>
@@ -89,9 +89,9 @@
 			<td>
 				🔗 <a href="https://twitter.com/CsCoder_/status/1617229802217377793?s=20">Tweet</a>
 			</td>
-<!-- 			<td>
-				🔗 <a href="https://twitter.com/CsCoder_/status/1608166988198674432?s=20">Tweet</a>
-			</td> -->
+			<td>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1621867123201949696?s=20">Tweet</a>
+			</td>
 		</tr>
 	</tbody>
 </table>

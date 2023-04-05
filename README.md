@@ -40,19 +40,19 @@
 <table>
 	<tbody width="100%">
 	<tr>
-			<th>3D Solar System</th>	
-			<th>Weather App Animation</th>	
-			<th>Shopping App UI</th>
+			<th>Dash Shooter Game</th>	
+			<th>Pattern Page Animation</th>	
+			<th>Magnifier Effect Animation</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://twitter.com/CsCoder_/status/1642139458538553344?s=20" alt="Dash Shooter Game"></img>
+				<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/phone_pattern.gif" alt="Dash Shooter Game"></img>
 			</td>
 			<td>
-			<img src="https://twitter.com/CsCoder_/status/1628715918581792769?s=20" alt="Pattern Page Animation"></img>
+			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/phone_pattern.gif" alt="Pattern Page Animation"></img>
 			</td>
 						<td>
-			<img src="https://twitter.com/CsCoder_/status/1631284145593696257?s=20" alt="Magnifier Effect Animation"></img>
+			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/animated_card.gif" alt="Magnifier Effect Animation"></img>
 			</td>
 		</tr>
 		<tr>

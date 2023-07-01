@@ -81,7 +81,7 @@
 			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/progress_bar.gif" alt="Progress Bar Animation"></img>
 			</td>
 						<td>
-			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/water_animation.gif" width="50%" alt="Water Animation"></img>
+			<img src="https://github.com/cscoderr/flutter_advance/blob/main/gifs/water_animation.gif" alt="Water Animation"></img>
 			</td>
 		</tr>
 		<tr>

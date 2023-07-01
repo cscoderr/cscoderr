@@ -86,7 +86,7 @@
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://twitter.com/CsCoder_/status/1673322907483734017?s=20">Tweet</a>
+				🔗 <a href="https://twitter.com/CsCoder_/status/1616656253463273472?s=20">Tweet</a>
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/CsCoder_/status/1617229802217377793?s=20">Tweet</a>

@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **tomiwaidowuu@gmail.com**
 
-- ⚡ Fun fact **I don't sleep**
-
 - 😄 Pronouns: he/him/his
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
 <hr>

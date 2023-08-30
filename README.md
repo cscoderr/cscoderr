@@ -17,9 +17,9 @@
 
 <!-- - 🌱 I’m currently learning **Swift** -->
 
-- 🧑‍💻 I’m looking to collaborate on open source projects
+- 🧑‍💻 Exploring new technologies and working on my skills.
 
-- 💬 Ask me about **Flutter**
+- 👯‍♂️ I’m looking to collaborate on Projects
 
 - 📫 How to reach me **tomiwaidowuu@gmail.com**
 

@@ -26,12 +26,6 @@
 - 😄 Pronouns: he/him/his
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
 <hr>
-<!-- <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=cscoderr&show_icons=true&locale=en" alt="cscoder">
-</p> -->
-
-[![Cscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cscoderr&count_private=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 
 ## Animation and UI Challenges
 

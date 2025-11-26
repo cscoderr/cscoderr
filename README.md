@@ -13,11 +13,11 @@
 </a>&nbsp;&nbsp;
 </p>
 
-- 🔭 I’m currently working on **Screencord**
+- 🔭 I’m currently working on **Myself**.
 
 <!-- - 🌱 I’m currently learning **Swift** -->
 
-- 🧑‍💻 Exploring new technologies and working on my skills.
+- 🧑‍💻 I’m currently learning how to be a very versertile software engineer.
 
 - 👯‍♂️ I’m looking to collaborate on Projects
 

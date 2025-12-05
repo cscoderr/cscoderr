@@ -11,8 +11,8 @@
 - 📫 How to reach me **tomiwaidowuu@gmail.com**
 
 - 😄 Pronouns: he/him/his
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
-<p align='center'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
+<p align='left'>
 <a href="https://twitter.com/cscoderr" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;

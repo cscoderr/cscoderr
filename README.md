@@ -11,8 +11,7 @@
 - 📫 How to reach me **tomiwaidowuu@gmail.com**
 
 - 😄 Pronouns: he/him/his
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
 <p align='center'>
 <a href="https://twitter.com/cscoderr" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cscoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cscoderr" /> </p>
 <hr>
 
 ## Animation and UI Challenges
